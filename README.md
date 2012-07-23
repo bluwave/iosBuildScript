@@ -21,3 +21,9 @@ i usually have a directory structure like this with my ios projects
                  	|-provisionFile
  				
  				
+
+
+I usually change into the buildScripts directory and execute the following command
+	$ ./build.sh
+	
+You may need to first give the script permissions to run
