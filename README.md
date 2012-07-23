@@ -8,7 +8,7 @@ i usually have a directory structure like this with my ios projects
 
 	--
 	|
-	|-projectName(src files usually here)
+	|-projectName (src files usually here)
  	|
  	|-projectName.xcodeproj
  	|
