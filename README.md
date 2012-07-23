@@ -39,3 +39,6 @@ There are a few variables in the header of the [build script](https://github.com
 	TESTFLIGHT_API_TOKEN="<testflight api token>"
 	TESTFLIGHT_TEAM_TOKEN="<testflight team token here>"
 	
+	
+NOTE: I have not tested this on any other shells besides bash.
+	
