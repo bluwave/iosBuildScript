@@ -23,7 +23,7 @@ i usually have a directory structure like this with my ios projects
  				
 
 
-I usually change into the buildScripts directory and execute the following command
+I usually change into the buildScripts directory and execute the following command to build and deploy the app:
 
 	buildScripts$ ./build.sh
 	
