@@ -5,7 +5,7 @@ ios build scripts to automate ios builds from command line
 
 i usually have a directory structure like this with my ios builds
 
-<blockquote>
+<code>
 --
  |
  |-projectName.xcodeproj
@@ -20,4 +20,4 @@ i usually have a directory structure like this with my ios builds
  |
  |
 
-</blockquote>
+</code>
